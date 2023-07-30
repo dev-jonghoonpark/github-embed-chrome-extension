@@ -4,8 +4,11 @@
 
 Embed your github/gist code easily.
 
-this extension create 'embed button'
-help to get source code embed script of github/gist
+this extension create 'embed button'  
+help to get source code embed script of github/gist  
+
+click the button and paste your embed script  
+to everywhere you want.  
 
 ## dependency
 
