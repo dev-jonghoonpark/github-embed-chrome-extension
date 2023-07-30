@@ -1,6 +1,11 @@
 # Github Embed Chrome Extension
 
-help to get source code embed script of github (and gist)
+![banner image](https://i.imgur.com/c4hZfIF.png) 
+
+Embed your github/gist code easily.
+
+this extension create 'embed button'
+help to get source code embed script of github/gist
 
 ## dependency
 
